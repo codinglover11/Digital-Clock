@@ -1,0 +1,30 @@
+ *{
+            background-color: rgb(28, 28, 28);
+            color:white;
+        }
+        .box{
+           margin-left: 35%;
+           margin-top: 15%;
+            position: absolute;
+            border: 2px solid yellow;
+            width: 30%;
+            height: 20%;
+            border-radius: 2%;
+           }
+           .stand{
+            position: absolute;
+    width: 15%;
+    height: 1%;
+    background-color: yellow;
+    border: 3px yellow;
+    margin-top: 330px;
+    margin-left: 36rem;
+    box-shadow: 10px 10px 5px 12px yellow;
+
+           }
+           .box h1{
+            display: flex;
+        margin-top: 28px;
+            justify-content: center;
+            font-size: 50px;
+           }
